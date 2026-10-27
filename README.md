@@ -181,22 +181,7 @@ Original sequence numbers are preserved so the narrative maps directly to the fi
 
 ---
 
-## 5. Screenshots Location
-
-```
-Screenshots/
-├── Screenshot (51).png … Screenshot (320).png   # 266 unique PNGs (duplicates removed)
-```
-
-Exact duplicates that were removed:
-- `Screenshot (61).png` (identical to 58)
-- `Screenshot (191).png` (identical to 190)
-- `Screenshot (308).png` (identical to 307)
-- `Screenshot (310).png` (identical to 309)
-
----
-
-## 6. Future Improvements
+## 5. Future Improvements
 
 - Add Glue Data Quality rules.
 - Parameterize the Glue job (job bookmarks, schema evolution).
